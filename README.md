@@ -96,6 +96,3 @@ Derived insights on team performance, top players, and match trends through visu
 </p>
 
 
-<p align="center">
-  <sub>Built with ❤️ by <strong>Akhilesh Singh</strong> — Empowering the world through AI.</sub>
-</p>
