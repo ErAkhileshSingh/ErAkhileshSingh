@@ -12,7 +12,7 @@
 ### 🌟 About Me  
 
 🎓 **B.Tech in Computer Science & Engineering (2021–2025)** — Maharishi Dayanand University, Haryana  
-💼 **AI/ML Ex-Intern @ ZenithraTech | Ex-Intern @ Codveda Technologies  
+💼 Ex-Intern @ ZenithraTech | Ex-Intern @ Codveda Technologies  
 🧠 I specialize in **Computer Vision, NLP, and LLMs**, with hands-on experience in **YOLOv8, Hugging Face, and OpenCV**  
 🚀 Passionate about building **AI systems that understand the world — from images to intent**  
 💬 I believe in learning by doing, experimenting with real-world datasets, and pushing models beyond basics  
