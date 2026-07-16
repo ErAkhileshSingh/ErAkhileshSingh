@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey, I'm Akhilesh Singh</h1>
-<h3 align="center">AI/ML Intern | Computer Vision & NLP | Building Intelligent Systems 🤖</h3>
+<h3 align="center">Generative AI Engineer | Computer Vision & NLP | Building Intelligent Systems 🤖</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/akhileshsinghcse/"><img src="https://img.shields.io/badge/LinkedIn-Akhilesh%20Singh-blue?logo=linkedin"></a>
