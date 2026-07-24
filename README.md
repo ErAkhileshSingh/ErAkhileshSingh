@@ -1,216 +1,62 @@
-<h1 align="center">Hi 👋, I'm Akhilesh Singh</h1>
-
-<h3 align="center">
-Generative AI Engineer • LLMs • Computer Vision • Voice AI
-</h3>
+<h1 align="center">👋 Hey there, I'm Akhilesh Singh</h1>
+<h3 align="center">Generative AI Engineer | Building Scalable LLM & Computer Vision Systems 🤖</h3>
 
 <p align="center">
-Building AI products that solve real-world problems using Large Language Models, Computer Vision, Speech Recognition and Automation.
-</p>
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/akhileshsinghcse/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://akhilesh-ai-ml.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="mailto:akhileshsinghshekhawatt@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+  <a href="https://www.linkedin.com/in/akhileshsinghcse/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:akhileshsinghshekhawatt@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail"></a>
 </p>
 
 ---
 
-# 👨‍💻 About Me
+### 🌟 About Me
 
-```python
-class AkhileshSingh:
-
-    role = "Generative AI Engineer"
-
-    company = "TechRise"
-
-    interests = [
-        "LLMs",
-        "RAG",
-        "Computer Vision",
-        "Voice AI",
-        "AI Automation",
-        "Agentic AI"
-    ]
-
-    currently_building = [
-        "AI Customer Support Systems",
-        "OBS Studio Voice Plugin",
-        "Offline Speech Recognition",
-        "Production-ready AI Applications"
-    ]
-
-    learning = [
-        "AI Agents",
-        "MCP",
-        "Multi-Agent Systems",
-        "Advanced RAG"
-    ]
-```
+- 🎓 **B.Tech in Computer Science & Engineering (2022–2026)** — Maharishi Dayanand University, Rohtak
+- 💼 Currently innovating as a **Generative AI Engineer at TechRise**
+- 🔍 Previously honed my skills as an **AI/ML Intern at Zenithra Tech** and **Machine Learning Intern at Codveda Technologies**
+- 🧠 I specialize in developing AI-powered applications utilizing **Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and prompt engineering** to automate complex business workflows
+- 🚀 Passionate about creating high-accuracy inference pipelines and delivering scalable, production-ready Generative AI solutions
 
 ---
 
-# 🚀 What I'm Working On
+### 🛠️ Tech Stack & Arsenal
 
-🧠 Developing production-ready Generative AI applications
-
-🎙️ Building native OBS Studio plugins with offline Voice AI
-
-📚 Designing Retrieval-Augmented Generation (RAG) systems
-
-🤖 Integrating LLMs into real-world business workflows
-
-👁️ Developing Computer Vision applications using YOLO
-
-⚡ Building scalable Python automation pipelines
+> **💡 Languages:** Python • SQL  
+> **🧠 GenAI & NLP:** LLMs • OpenAI API • Gemini API • RAG • Prompt Engineering • Vosk Offline Speech Recognition  
+> **👁️ Computer Vision:** YOLOv8 • OpenCV • Object Detection • Image Classification • Transfer Learning  
+> **⚙️ AI & Machine Learning:** PyTorch • TensorFlow • Scikit-learn • Keras • Hugging Face Transformers  
+> **🧰 Tools & Data:** REST APIs • Git/GitHub • CMake • OBS Studio Plugin API • Pandas • NumPy • Matplotlib • Streamlit  
+> **🗄️ Databases:** MySQL • MongoDB  
 
 ---
 
-# 🛠 Tech Stack
+### 🚀 Featured Engineering Projects
 
-### Languages
+#### 🎙️ Offline Voice-Controlled OBS Plugin
+- Engineered a native OBS Studio plugin utilizing the **Vosk offline speech recognition engine**.
+- Enabled real-time, low-latency voice command processing without internet connectivity, ensuring a privacy-focused and rapid user experience.
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github"/>
-</p>
+#### 🧠 AI Intent Classifier
+- Designed a voice-based intelligent assistant that interprets real-time user commands via **Speech Recognition and the Gemini LLM API**.
+- Built a modular NLP pipeline incorporating audio preprocessing, speech-to-text, and context analysis via semantic similarity.
+- Successfully **improved NLU accuracy by 25%** through intelligent keyword extraction.
 
-### AI / Machine Learning
+#### 🚶 Pedestrian Detection & Tracking System
+- Trained a highly accurate, custom **YOLOv8 model** dedicated to pedestrian detection and continuous real-time tracking.
+- Developed an automated benchmarking pipeline that generates CSV reports to evaluate inference metrics, speed, and accuracy across images, videos, and live feeds.
 
-- Large Language Models
-- Prompt Engineering
-- Retrieval-Augmented Generation (RAG)
-- Hugging Face
-- OpenAI API
-- Gemini API
-- YOLOv8
-- TensorFlow
-- PyTorch
-- Scikit-Learn
-- OpenCV
-- Vosk
-
-### Databases
-
-- MongoDB
-- MySQL
-
-### Tools
-
-- Streamlit
-- CMake
-- OBS Studio Plugin API
-- GitHub Actions
-- Google Colab
+#### 📈 Predictive Machine Learning Models
+- Executed comprehensive data cleaning and Exploratory Data Analysis (EDA) using **Pandas and NumPy**.
+- Built and optimized robust classification and regression models utilizing **Logistic Regression, Decision Trees, and Random Forest** algorithms via Scikit-learn.
 
 ---
 
-# 🌱 Currently Exploring
+### 📜 Certifications & Continuous Learning
 
-🚀 AI Agents
-
-🧠 Model Context Protocol (MCP)
-
-🤖 Multi-Agent AI Systems
-
-🎤 Voice AI
-
-📦 Production LLM Deployment
-
----
-
-# 💼 Experience
-
-### Generative AI Engineer — TechRise
-
-- Building AI-powered applications using LLMs and RAG
-- Developing native OBS Studio plugins
-- Creating offline Voice AI solutions
-- Designing AI automation workflows
-- Integrating Vector Databases and AI APIs
-
----
-
-### AI/ML Intern — ZenithraTech
-
-- Custom YOLOv8 Training
-- Object Detection
-- Pedestrian Tracking
-- Hugging Face Fine-tuning
-
----
-
-### Machine Learning Intern — Codveda Technologies
-
-- Machine Learning
-- EDA
-- Predictive Models
-- Scikit-learn
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ErAkhileshSingh&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ErAkhileshSingh&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErAkhileshSingh&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📈 Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ErAkhileshSingh&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🤝 Let's Connect
-
-<p align="center">
-
-<a href="mailto:akhileshsinghshekhawatt@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-<a href="https://www.linkedin.com/in/akhileshsinghcse/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="https://akhilesh-ai-ml.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-000?style=for-the-badge"/>
-</a>
-
-</p>
+- 📊 **Business Analytics & Decision Making with Generative AI** — BITSoM - School of Management *(Completed Feb 2026)*
 
 ---
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=ErAkhileshSingh&label=Profile+Views&color=blue&style=flat"/>
-
+  <i>"Building AI systems that understand the world — from images to intent."</i><br>
+  <b>Let's build something amazing together! 🚀</b>
 </p>
-
-⭐ *Always building. Always learning. Turning ideas into AI products.*
