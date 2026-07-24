@@ -9,15 +9,13 @@ Building intelligent AI products that solve real-world business problems through
 </p>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/akhileshsinghcse">
+    <img src="https://img.shields.io/badge/LinkedIn-Akhilesh%20Singh-blue?logo=linkedin" />
+  </a>
 
-<a href="https://www.linkedin.com/in/akhileshsinghcse">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:akhileshsinghshekhawatt@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+  <a href="mailto:akhileshsinghshekhawatt@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" />
+  </a>
 </p>
 
 ---
@@ -248,26 +246,13 @@ Multi-Agent Systems
 
 ---
 
-# 📫 Let's Connect
+<h2 align="center">📫 Connect with Me</h2>
 
 <p align="center">
-
-<a href="mailto:akhileshsinghshekhawatt@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/akhileshsinghcse">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://github.com/ErAkhileshSingh">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
+  <a href="https://www.linkedin.com/in/akhileshsinghcse/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40"/></a>
+  <a href="https://akhilesh-ai-ml.vercel.app/"><img src="https://img.icons8.com/color/48/000000/domain.png" width="40"/></a>
+  <a href="mailto:akhileshsinghshekhawatt@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" width="40"/></a>
+  <a href="https://github.com/ErAkhileshSingh"><img src="https://img.icons8.com/color/48/000000/github.png" width="40"/></a>
 </p>
 
 ---
