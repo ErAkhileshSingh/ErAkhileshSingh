@@ -8,15 +8,7 @@ Generative AI Engineer • LLMs • Computer Vision • Voice AI
 Building intelligent AI products that solve real-world business problems through Large Language Models, Computer Vision and Automation.
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/akhileshsinghcse">
-    <img src="https://img.shields.io/badge/LinkedIn-Akhilesh%20Singh-blue?logo=linkedin" />
-  </a>
-
-  <a href="mailto:akhileshsinghshekhawatt@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" />
-  </a>
-</p>
+<p align="center"> <a href="https://www.linkedin.com/in/akhileshsinghcse"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="42" style="vertical-align: middle;" alt="LinkedIn"/> </a> &nbsp;&nbsp;&nbsp; <a href="mailto:akhileshsinghshekhawatt@gmail.com"> <img src="https://cdn.simpleicons.org/gmail/EA4335" width="42" style="vertical-align: middle;" alt="Gmail"/> </a> </p>
 
 ---
 
@@ -110,20 +102,21 @@ class AkhileshSingh:
 
 ### AI & Machine Learning
 
-<p>
 
-<img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/YOLOv8-red?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/HuggingFace-yellow?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/RAG-blue?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/Vosk-green?style=flat-square"/>
-
+<img src="https://cdn.simpleicons.org/googlegemini/8E75FF" height="45" alt="Google Gemini"/>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="45" alt="Hugging Face"/>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python"/>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="45" alt="PyTorch"/>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="45" alt="TensorFlow"/>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="45" alt="OpenCV"/>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="45" alt="Streamlit"/>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45" alt="MongoDB"/>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="MySQL"/>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git"/>
 </p>
 
 ### Frameworks
@@ -244,21 +237,7 @@ Multi-Agent Systems
 - 🚀 Building practical AI tools instead of demo projects
 - 🌍 Always looking for opportunities to solve real-world problems with AI
 
----
 
-<h2 align="center">📫 Connect with Me</h2>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/akhileshsinghcse/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40"/></a>
-  <a href="https://akhilesh-ai-ml.vercel.app/"><img src="https://img.icons8.com/color/48/000000/domain.png" width="40"/></a>
-  <a href="mailto:akhileshsinghshekhawatt@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" width="40"/></a>
-  <a href="https://github.com/ErAkhileshSingh"><img src="https://img.icons8.com/color/48/000000/github.png" width="40"/></a>
-</p>
 
----
 
-<p align="center">
-
-<i>"I enjoy building AI systems that people can actually use—not just models that perform well on benchmarks."</i>
-
-</p>
