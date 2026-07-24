@@ -1,98 +1,216 @@
-<h1 align="center">👋 Hey, I'm Akhilesh Singh</h1>
-<h3 align="center">Generative AI Engineer | Computer Vision & NLP | Building Intelligent Systems 🤖</h3>
+<h1 align="center">Hi 👋, I'm Akhilesh Singh</h1>
+
+<h3 align="center">
+Generative AI Engineer • LLMs • Computer Vision • Voice AI
+</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/akhileshsinghcse/"><img src="https://img.shields.io/badge/LinkedIn-Akhilesh%20Singh-blue?logo=linkedin"></a>
-  <a href="https://akhilesh-ai-ml.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-lightgrey?logo=google-chrome"></a>
-  <a href="mailto:akhileshsinghshekhawatt@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail"></a>
+Building AI products that solve real-world problems using Large Language Models, Computer Vision, Speech Recognition and Automation.
+</p>
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/akhileshsinghcse/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://akhilesh-ai-ml.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="mailto:akhileshsinghshekhawatt@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-### 🌟 About Me  
+# 👨‍💻 About Me
 
-🎓 **B.Tech in Computer Science & Engineering (2021–2025)** — Maharishi Dayanand University, Haryana  
-💼 Generative AI Engineer @ TechRise | Ex-Intern @ ZenithraTech | Ex-Intern @ Codveda Technologies  
-🧠 I specialize in **Computer Vision, NLP, and LLMs**, with hands-on experience in **YOLOv8, Hugging Face, and OpenCV**  
-🚀 Passionate about building **AI systems that understand the world — from images to intent**  
-💬 I believe in learning by doing, experimenting with real-world datasets, and pushing models beyond basics  
+```python
+class AkhileshSingh:
+
+    role = "Generative AI Engineer"
+
+    company = "TechRise"
+
+    interests = [
+        "LLMs",
+        "RAG",
+        "Computer Vision",
+        "Voice AI",
+        "AI Automation",
+        "Agentic AI"
+    ]
+
+    currently_building = [
+        "AI Customer Support Systems",
+        "OBS Studio Voice Plugin",
+        "Offline Speech Recognition",
+        "Production-ready AI Applications"
+    ]
+
+    learning = [
+        "AI Agents",
+        "MCP",
+        "Multi-Agent Systems",
+        "Advanced RAG"
+    ]
+```
 
 ---
 
-### 🧩 Tech Toolbox  
+# 🚀 What I'm Working On
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,git,github,vscode,html,css,mysql" />
+🧠 Developing production-ready Generative AI applications
+
+🎙️ Building native OBS Studio plugins with offline Voice AI
+
+📚 Designing Retrieval-Augmented Generation (RAG) systems
+
+🤖 Integrating LLMs into real-world business workflows
+
+👁️ Developing Computer Vision applications using YOLO
+
+⚡ Building scalable Python automation pipelines
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github"/>
 </p>
 
-#### 💻 Languages  
-Python • SQL  
+### AI / Machine Learning
 
-#### ⚙️ Frameworks & Libraries  
-PyTorch • TensorFlow • Scikit-learn • Keras • Pandas • NumPy • Matplotlib • OpenCV • Hugging Face  
+- Large Language Models
+- Prompt Engineering
+- Retrieval-Augmented Generation (RAG)
+- Hugging Face
+- OpenAI API
+- Gemini API
+- YOLOv8
+- TensorFlow
+- PyTorch
+- Scikit-Learn
+- OpenCV
+- Vosk
 
-#### 🧠 Domains  
-Computer Vision (YOLOv8) • NLP • LLMs • Transfer Learning • Model Evaluation  
+### Databases
 
-#### 🧰 Tools  
-Streamlit • Google Colab • Git & GitHub • MySQL • MongoDB • Excel  
+- MongoDB
+- MySQL
 
----
+### Tools
 
-### 🚀 Featured Projects  
-
-#### 🧠 [AI Intent Classifier](https://github.com/ErAkhileshSingh/My-Intent-App)
-🎤 Voice-based intelligent assistant using **Gemini API** and **Speech Recognition**.  
-Built NLP pipeline for **real-time command understanding** using keyword extraction & semantic similarity.
-
----
-
-#### 📄 [AI Resume Critiquer](https://github.com/ErAkhileshSingh/AI-Resume-Critiquer)
-🤖 AI tool that reviews resumes using **OpenAI API** and provides **ATS-optimized, job-specific feedback**.  
-Enhanced recruiter readability and keyword optimization by 40%.
-
----
-
-#### 🚶 [Pedestrian Detection & Tracking System](https://github.com/ErAkhileshSingh/pedestrian-tracking)
-📸 Trained custom **YOLOv8 model** for real-time pedestrian detection and tracking using OpenCV.  
-Created automated benchmarking pipeline comparing speed and accuracy across YOLO models.
+- Streamlit
+- CMake
+- OBS Studio Plugin API
+- GitHub Actions
+- Google Colab
 
 ---
 
-#### 👁️ [Face Recognition Attendance System](https://github.com/ErAkhileshSingh/FaceRecognition)
-🧍 Real-time face recognition attendance system using **Python, OpenCV**, and **face_recognition**.  
-Automatically detects, identifies, and logs attendance via live camera feed.
+# 🌱 Currently Exploring
+
+🚀 AI Agents
+
+🧠 Model Context Protocol (MCP)
+
+🤖 Multi-Agent AI Systems
+
+🎤 Voice AI
+
+📦 Production LLM Deployment
 
 ---
 
-#### 🏏 [IPL Data Analysis](https://github.com/ErAkhileshSingh/ipl-data-analysis)
-📊 Data analysis project on **IPL datasets** using **Pandas, Matplotlib, and Seaborn**.  
-Derived insights on team performance, top players, and match trends through visual analytics.
+# 💼 Experience
+
+### Generative AI Engineer — TechRise
+
+- Building AI-powered applications using LLMs and RAG
+- Developing native OBS Studio plugins
+- Creating offline Voice AI solutions
+- Designing AI automation workflows
+- Integrating Vector Databases and AI APIs
 
 ---
 
-### 🧠 Learning & Certifications  
-- **Business Analytics & Decision Making with Generative AI** — BITSoM (In Progress)  
-- **AI Model Deployment & Prompt Flow** — Microsoft Learn  
-- **Responsible Generative AI & AI Solution Planning** — Microsoft Learn  
+### AI/ML Intern — ZenithraTech
+
+- Custom YOLOv8 Training
+- Object Detection
+- Pedestrian Tracking
+- Hugging Face Fine-tuning
 
 ---
 
-### 🌱 Currently Exploring  
-- 🧩 Retrieval-Augmented Generation (RAG) systems  
-- 🧠 Fine-tuning LLMs locally (Ollama, LM Studio)  
-- ☁️ Azure AI Foundry for prompt flow orchestration  
-- ⚙️ Streamlit dashboards for model visualization  
+### Machine Learning Intern — Codveda Technologies
+
+- Machine Learning
+- EDA
+- Predictive Models
+- Scikit-learn
 
 ---
 
-### 💬 Let's Connect  
+# 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/akhileshsinghcse/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40"/></a>
-  <a href="https://akhilesh-ai-ml.vercel.app/"><img src="https://img.icons8.com/color/48/000000/domain.png" width="40"/></a>
-  <a href="mailto:akhileshsinghshekhawatt@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" width="40"/></a>
-  <a href="https://github.com/ErAkhileshSingh"><img src="https://img.icons8.com/color/48/000000/github.png" width="40"/></a>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ErAkhileshSingh&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ErAkhileshSingh&theme=tokyonight"/>
+
 </p>
 
+<p align="center">
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErAkhileshSingh&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ErAkhileshSingh&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="mailto:akhileshsinghshekhawatt@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://www.linkedin.com/in/akhileshsinghcse/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://akhilesh-ai-ml.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-000?style=for-the-badge"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=ErAkhileshSingh&label=Profile+Views&color=blue&style=flat"/>
+
+</p>
+
+⭐ *Always building. Always learning. Turning ideas into AI products.*
