@@ -8,7 +8,7 @@ Generative AI Engineer • LLMs • Computer Vision • Voice AI
 Building intelligent AI products that solve real-world business problems through Large Language Models, Computer Vision and Automation.
 </p>
 
-<p align="center"> <a href="https://www.linkedin.com/in/akhileshsinghcse"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="42" style="vertical-align: middle;" alt="LinkedIn"/> </a> &nbsp;&nbsp;&nbsp; <a href="mailto:akhileshsinghshekhawatt@gmail.com"> <img src="https://cdn.simpleicons.org/gmail/EA4335" width="42" style="vertical-align: middle;" alt="Gmail"/> </a> </p>
+<p align="center"> <a href="https://www.linkedin.com/in/akhileshsingh-ai"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="42" style="vertical-align: middle;" alt="LinkedIn"/> </a> &nbsp;&nbsp;&nbsp; <a href="mailto:akhileshsinghshekhawatt@gmail.com"> <img src="https://cdn.simpleicons.org/gmail/EA4335" width="42" style="vertical-align: middle;" alt="Gmail"/> </a> </p>
 
 ---
 
